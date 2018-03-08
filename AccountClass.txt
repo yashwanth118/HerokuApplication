@@ -1,0 +1,10 @@
+public class AccountClass{
+
+public void m1(){
+	//need to implement later
+}
+
+public void m2(){
+	//just a method
+}
+}
